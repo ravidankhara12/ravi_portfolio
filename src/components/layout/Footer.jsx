@@ -11,9 +11,6 @@ const Footer = React.memo(() => {
     <footer className="footer">
       <div className="footer-container">
         <h3 className="footer-logo">{PROFILE_INFO.name}</h3>
-        <p className="footer-credits">
-          Designed with ❤️. All rights reserved.
-        </p>
 
         <div className="footer-socials">
           <a href={`mailto:${PROFILE_INFO.email}`} target="_blank" rel="noopener noreferrer" className="social-icon-btn" aria-label="Email">
