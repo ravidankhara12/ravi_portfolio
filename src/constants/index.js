@@ -37,7 +37,7 @@ export const ABOUT_SERVICES = [
 ];
 
 export const PORTFOLIO_STATS = [
-  { value: 3, suffix: "+", label: "Completed Projects" },
+  { value: 4, suffix: "+", label: "Completed Projects" },
   { value: 95, suffix: "%", label: "Client satisfaction" },
   { value: 5, suffix: "+", label: "Years of experience" }
 ];
